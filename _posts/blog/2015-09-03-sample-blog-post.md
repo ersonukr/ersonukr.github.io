@@ -21,7 +21,7 @@ Hello There is is my first blog on my own website.
 * ul list
 * list 2
 
-{% raw ruby%}
+{% raw%}
 class Hello
 puts "hii------------"
 end
